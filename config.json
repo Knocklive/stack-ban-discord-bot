@@ -1,0 +1,10 @@
+{
+    "token": "BOT-TOKEN-HERE",
+    "command": ".ban",
+    "guild": "486913392615882752",
+    "banreason": "Du wurdest aufgrund mehrerer Verstöße unseres Regelwerks von dem Server ausgeschlossen.",
+    "warngroups": {
+        "lvl1": "921763244996169769",
+        "lvl2": "921763330157330442"
+    }
+}
